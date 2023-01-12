@@ -70,7 +70,7 @@ console.log(int);
 console.log(string);
 
 
-/*       */ 
+/*   To find out the least and max character in an array    */ 
 function myfunction(){
     var arr2 = ['aasas','jasasasasas','assasasasa','yasasas','asasasasasasasd','asasasau','abcdefghijklmnopqrstuvwxyz'];
     var smallChar = arr2[0];
